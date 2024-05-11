@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zonasegura.mibanco.com.pe	TRUE	/frontend	FALSE	1999999999	JSESSIONID	xydzA6nfB_2P0oVw1PAU3LSaInjym-y3cc3hXnfC.bmesrv1214
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	BIGipServer~DMZ~Pool_HB_FrontEnd	rd1o00000000000000000000ffffac13d415o8443
+.mibanco.com.pe	TRUE	/	FALSE	1999999999	__cfruid	4663baac246da874279a20f5fdf41a3183dd52b8-1715361484
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:45|i:208684|e:103"
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:45|g:2c5140dd-c0d2-4ef9-9d17-6a824cf90946|n:mibanco-prod_b0d31f45-79c3-431e-a96d-9be71d21ed0a"
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	ADRUM_BTg	R:45|g:021fc86d-b407-4e71-82f0-7ab77587e75c"
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	ADRUM_BTn	R:45|n:mibanco-prod_b0d31f45-79c3-431e-a96d-9be71d21ed0a"
+zonasegura.mibanco.com.pe	TRUE	/	FALSE	1999999999	SameSite	None
+
